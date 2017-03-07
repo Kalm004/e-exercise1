@@ -23,6 +23,6 @@ function getRange(UserTable, offset, limit) {
 }
 
 module.exports = {
-    count: count,
+    count,
     getRange
 };
