@@ -11,6 +11,8 @@
   "dependencies": {
     "express": "^4.14.1",
     "orm": "^3.2.3",
-    "pg": "^6.1.2"
+    "pg": "^6.1.2",
+    "sails-postgresql": "^0.11.4",
+    "waterline": "^0.11.10"
   }
 }
